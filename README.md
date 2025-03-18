@@ -1,2 +1,3 @@
 # challenge-amigo-secreto
-Challenge Amigo Secreto
+##Challenge del curso de programación para principiantes 
+###Alura Oracle
